@@ -1,0 +1,73 @@
+[
+  {
+    "id": "fc4f6639-06b7-4473-8684-c38d8366f3cf",
+    "data": [
+      {
+        "text": "Dabeli",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77d3bb52-a025-492f-ae04-050a5be5a336",
+    "data": [
+      {
+        "text": "Misal",
+        "userDefined": false
+      },
+      {
+        "text": " pav",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a3ce73a-9388-4a13-af3a-979fc403f7bd",
+    "data": [
+      {
+        "text": "kachodi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ae7d9d8-3913-4887-9071-e11a15fc93a6",
+    "data": [
+      {
+        "text": "bread pakoda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90defd4b-13bf-49da-97ee-bb5bfa327a93",
+    "data": [
+      {
+        "text": "Samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
